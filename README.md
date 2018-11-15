@@ -1,12 +1,12 @@
-# Mi portfolio hecho en BULMA - PUG - SASS
+# Portfolio hecho en con Bulma - Pug - Sass
 
 # [Portafolio 2018](http://portfolio.arielcerda.com)
 
-Bulma is a **modern CSS framework** based on [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
+<!-- Bulma is a **modern CSS framework** based on [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 
 <a href="https://bulma.io"><img src="https://raw.githubusercontent.com/jgthms/bulma/master/docs/images/bulma-banner.png" alt="Bulma: a Flexbox CSS framework" style="max-width:100%;" width="600" height="315"></a>
 
-## Quick install
+## Quick install	
 
 Bulma is constantly in development! Try it out now:
 
@@ -46,9 +46,9 @@ Internet Explorer (10+) is only partially supported.
 
 The documentation resides in the [docs](docs) directory, and is built with the Ruby-based [Jekyll](https://jekyllrb.com/) tool.
 
-Browse the [online documentation here.](https://bulma.io/documentation/overview/start/)
+Browse the [online documentation here.](https://bulma.io/documentation/overview/start/) -->
 
-## Related projects
+## Recursos Utilizados
 
 | Project                                                                            | Description                                                        |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------|
@@ -60,4 +60,4 @@ Browse the [online documentation here.](https://bulma.io/documentation/overview/
 | [ember-bulma](https://github.com/open-tux/ember-bulma)                             | Ember addon providing a collection of UI components for 
 ## Copyright and license
 
-Code copyright 2018 Jeremy Thomas. Code released under [the MIT license](https://github.com/jgthms/bulma/blob/master/LICENSE).
+<!-- Code copyright 2018 Jeremy Thomas. Code released under [the MIT license](https://github.com/jgthms/bulma/blob/master/LICENSE). -->
