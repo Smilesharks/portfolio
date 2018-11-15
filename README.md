@@ -1,6 +1,6 @@
 # Portfolio hecho en con Bulma - Pug - Sass
 
-# [Portafolio 2018](http://portfolio.arielcerda.com)
+### [Portafolio 2018](http://portfolio.arielcerda.com)
 
 <!-- Bulma is a **modern CSS framework** based on [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 
@@ -50,14 +50,27 @@ Browse the [online documentation here.](https://bulma.io/documentation/overview/
 
 ## Recursos Utilizados
 
-| Project                                                                            | Description                                                        |
+| CODIGO                                                                            | Description                                                        |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| [Bulma with Attribute Modules](https://github.com/j5bot/bulma-attribute-selectors) | Adds support for attribute-based selectors.                        |
-| [Bulma with Rails](https://github.com/joshuajansen/bulma-rails)                    | Integrates Bulma with the rails asset pipeline                     |
-| [Vue Admin](https://github.com/vue-bulma/vue-admin)                                | Vue Admin framework powered by Bulma                               |
-| [Bulmaswatch](https://github.com/jenil/bulmaswatch)                                | Free themes for Bulma                                              |
-| [Goldfish](https://github.com/Caiyeon/goldfish)                                    | Vault UI with Bulma, Golang, and Vue Admin                         |
-| [ember-bulma](https://github.com/open-tux/ember-bulma)                             | Ember addon providing a collection of UI components for 
-## Copyright and license
+| [Bulma Version 0.7.1](https://github.com/j5bot/bulma-attribute-selectors) | Framework base.                        |
+| [Google Fonts (Merriweather)](https://github.com/joshuajansen/bulma-rails)                    | Tipografía textos                     |
+| [Google Fonts (Raleway)](https://github.com/vue-bulma/vue-admin)                                | Tipografía títulos                               |
+| [emoji.css](https://afeld.github.io/emoji-css/)                                | Iconos y banderas                                              |
+| [font-awesome](https://fontawesome.com/)                                    | Iconografía                         |
+| [scrollreveal.js](https://scrollrevealjs.org/)                             | ScrollReveal 
+| [snap.svg](http://snapsvg.io/)                             | Animaciones Svg 
+| [Lottie](https://github.com/airbnb/lottie-web)                             | Animación svg desde After Effects 
+| [slick](http://kenwheeler.github.io/slick/)                             | Slider galería 
+| [Simple Typing Carousel](https://codepen.io/gschier/pen/jkivt)                             | Efecto texto cursor 
+| [Slick Slideshow with blur effect](https://codepen.io/supah/pen/yePzKO)                             | Slider galería 2 
+
+## Imagenes Utilizadas
+
+| CODIGO                                                                            | Description                                                        |
+|------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| [Cover por Michał Kubalczyk](https://unsplash.com/photos/WecngmAT-KY) 				| Michał Kubalczyk
+| [Retrato](https://www.instagram.com/valeriavidelafotografias)              			| Valeria Videla
+
+<!-- ## Copyright and license -->
 
 <!-- Code copyright 2018 Jeremy Thomas. Code released under [the MIT license](https://github.com/jgthms/bulma/blob/master/LICENSE). -->
