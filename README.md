@@ -50,7 +50,7 @@ Browse the [online documentation here.](https://bulma.io/documentation/overview/
 
 ## Recursos Utilizados
 
-| CODIGO                                                                            | Description                                                        |
+| CODIGO                                                                            | Descripción                                                        |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------|
 | [Bulma Version 0.7.1](https://github.com/j5bot/bulma-attribute-selectors) | Framework base.                        |
 | [Google Fonts (Merriweather)](https://github.com/joshuajansen/bulma-rails)                    | Tipografía textos                     |
@@ -66,9 +66,9 @@ Browse the [online documentation here.](https://bulma.io/documentation/overview/
 
 ## Imagenes Utilizadas
 
-| CODIGO                                                                            | Description                                                        |
+| Fotografía                                                                            | Descripción                                                        |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| [Cover por Michał Kubalczyk](https://unsplash.com/photos/WecngmAT-KY) 				| Michał Kubalczyk
+| [Cover hero](https://unsplash.com/photos/WecngmAT-KY) 				| Michał Kubalczyk
 | [Retrato](https://www.instagram.com/valeriavidelafotografias)              			| Valeria Videla
 
 <!-- ## Copyright and license -->
