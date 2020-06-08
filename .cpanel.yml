@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/arielcer/repo/portfolio2020
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp style.css $DEPLOYPATH
+...
+...
